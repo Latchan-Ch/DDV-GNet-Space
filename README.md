@@ -47,7 +47,7 @@ We evaluated DDV-GNet on the **PVEL-AD Dataset** (12 classes of solar panel defe
 DDV-GNet is the **only** model tested that successfully lands in the "Real-Time Feasible Zone" for industrial aerospace sorting machines.
 
 <p align="center">
-  <img src="deployment_analysis.png" width="48%" alt="Accuracy vs Throughput">
+  <img src="deployment_analysis.png" width="70%" alt="Accuracy vs Throughput">
   <img src="conf_matric.png" width="48%" alt="Confusion Matrix">
 </p>
 
