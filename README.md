@@ -1,6 +1,4 @@
 # DDV-GNet: High-Throughput Defect Detection for Space Manufacturing
-
-[![Paper Status](https://img.shields.io/badge/Paper-IEEE_SPACE_2026_(Under_Review)-blue.svg)](#)
 [![Framework](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)](#)
 [![Dataset](https://img.shields.io/badge/Dataset-PVEL--AD-green.svg)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
