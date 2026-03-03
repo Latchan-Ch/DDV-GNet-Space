@@ -24,7 +24,7 @@ Real-time defect detection in aerospace manufacturing requires processing speeds
 
 DDV-GNet features a four-stage hierarchical pipeline (64 → 128 → 256 → 512 dimensions) for multi-scale feature extraction. The core `DDV Block` utilizes a Gated Convolutional Branch paired with a Deep Delta Operator to ensure optimal gradient flow and data-dependent feature filtering.
 
-![DDV-GNet Architecture](assets/architecture_diagram.png)
+![DDV-GNet Architecture](architecture_diagram.png)
 *(Figure 1: Macro pipeline and Micro DDV block architecture featuring Gated Convolutions and Deep Delta Multiplicative rules).*
 
 ---
@@ -47,8 +47,8 @@ We evaluated DDV-GNet on the **PVEL-AD Dataset** (12 classes of solar panel defe
 DDV-GNet is the **only** model tested that successfully lands in the "Real-Time Feasible Zone" for industrial aerospace sorting machines.
 
 <p align="center">
-  <img src="assets/deployment_analysis.png" width="48%" alt="Accuracy vs Throughput">
-  <img src="assets/conf_matrix.png" width="48%" alt="Confusion Matrix">
+  <img src="deployment_analysis.png" width="48%" alt="Accuracy vs Throughput">
+  <img src="conf_matrix.png" width="48%" alt="Confusion Matrix">
 </p>
 
 ---
