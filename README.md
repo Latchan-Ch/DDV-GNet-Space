@@ -68,7 +68,8 @@ The PVEL-AD dataset is publicly available on Kaggle. Download it and extract it 
 ```
 ## Citation
 If you find this code or our paper useful in your research, please consider citing:
-Code snippet
+Code snippet: 
+```
 @inproceedings{chhetri2026ddvgnet,
   title={DDV-GNet: High-Throughput Defect Detection for Space Manufacturing via Deep Delta Gated Networks},
   author={Chhetri, Latchan and Kumar, Aman},
@@ -76,3 +77,4 @@ Code snippet
   year={2026},
   organization={IEEE}
 }
+```
